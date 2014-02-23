@@ -1,6 +1,6 @@
 {
-  "name": "socket.io-servicebus",
-  "author": "Microsoft Corporation",
+  "name": "primus.io-servicebus",
+  "author": "Shopetti",
   "contributors": [
     "Block, Glenn <gblock@microsoft.com>",
     "Cooke, Jason <jcooke@microsoft.com>",
