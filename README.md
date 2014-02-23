@@ -1,9 +1,9 @@
-# socket.io-servicebus - socket.io store using Windows Azure Service Bus
+# primus.io-servicebus - socket.io store using Windows Azure Service Bus
 
-[![Build Status](https://travis-ci.org/WindowsAzure/socket.io-servicebus.png?branch=dev)](https://travis-ci.org/WindowsAzure/socket.io-servicebus)
+[![Build Status](https://travis-ci.org/Shopetti/primus.io-servicebus.png?branch=dev)](https://travis-ci.org/Shopetti/primus.io-servicebus)
 
 This project provides a Node.js package that lets you use Windows Azure Service Bus as a back-end communications
-channel for socket.io applications.
+channel for primus.io applications.
 
 Learn more about the module by watching the recent [Subscribe] (http://channel9.msdn.com/Blogs/Subscribe/Glenn-Block-Explains-SocketIO-Scale-Out-on-Service-Bus) episode.
 
