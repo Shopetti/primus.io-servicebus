@@ -8,7 +8,7 @@
     "Totten, Nathan <ntotten@microsoft.com>"
   ],
   "version": "0.0.3",
-  "description": "Socket.io store that connects to Windows Azure Service Bus",
+  "description": "primus.io store adapter that connects to Windows Azure Service Bus",
   "tags": [
     "azure",
     "socket.io"
