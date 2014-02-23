@@ -34,13 +34,13 @@ There's the start of a perf test harness in examples/timingtest.
 To get the source code of the SDK via **git** just type:
 
     git clone https://github.com/WindowsAzure/socket.io-servicebus
-    cd ./socket.io-servicebus
+    cd ./primus.io-servicebus
 
 ## Install the npm package
 
 You can install the azure npm package directly.
 
-    npm install socket.io-servicebus
+    npm install primus.io-servicebus
 
 # Usage
 
@@ -49,11 +49,11 @@ topic name; this can either be created in advance or the module will create them
 
 These can be created either via the Windows Azure portal or programmatically using the Windows Azure SDK for Node.
 
-Then, configure socket.io to use the Service Bus Store:
+Then, configure primus.io to use the Service Bus Store:
 
 ```javascript
 var sio = require('socket.io');
-var SbStore = require('socket.io-servicebus');
+var SbStore = require('primus.io-servicebus');
 
 var io = sio.listen(server);
 io.configure(function () {
